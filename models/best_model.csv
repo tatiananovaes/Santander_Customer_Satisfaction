@@ -1,0 +1,2 @@
+,Nome,Algoritmo,ROC_AUC Score,AUC Score,Acurácia
+0,modelo_v4,Gradient Boosting,0.5989759496116306,0.7814942641525634,0.9113553113553113
