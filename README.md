@@ -15,11 +15,11 @@ O projeto faz parte da Formação Cientista de Dados, oferecida pela Data Scienc
 
 
 ## Dados
-Os datasets de treino e de teste, com centenas de recursos anônimos, foram fornecidos pelo Santander na plataforma do Kaggle, em arquivos separados (csv).
+Os datasets de treino e de teste, com centenas de recursos anônimos, foram fornecidos pelo Santander na plataforma do Kaggle, em arquivos separados (csv). O dataset train foi subdividido em treino e teste para treinamento e avaliação do modelo e o dataset test foi utilizado para fazer previsões com o melhor modelo encontrado.
 
 
 ## Dependências
-O projeto foi executado por meio da linguagem Python no Jupyter Notebook. As bibliotecas utilizadas foram Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, Pyarrow, Joblib, Pickle, Imblearn e XGBoost, além do Streamlit. As versöes utilizadas constam do arquivo requirements.txt.
+O projeto foi executado por meio da linguagem Python no Jupyter Notebook. As bibliotecas utilizadas foram Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, Pyarrow, Joblib, Pickle, Imblearn e XGBoost. As versões utilizadas constam do arquivo requirements.txt.
 
 
 ---
@@ -37,10 +37,10 @@ _The project is part of the Data Scientist Training, offered by Data Science Aca
 
 
 ## _Data_
-_The training and test datasets with hundreds of anonymous resources were provided by Santander on the Kaggle platform, in separate files (csv)._
+_The training and test datasets with hundreds of anonymous resources were provided by Santander on the Kaggle platform, in separate files (csv). The train dataset was subdivided into training and testing for training and model evaluation and the test dataset was used to make predictions with the best model found._
 
 ## _Dependencies_
-_The project was run using the Python language in Jupyter Notebook. The libraries used were Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, Pyarrow, Joblib, Pickle, Imblearn, and XGBoost, plus Streamlit. The versions used are in the requirements.txt file._
+_The project was run using the Python language in Jupyter Notebook. The libraries used were Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, Pyarrow, Joblib, Pickle, Imblearn, and XGBoost. The versions used are in the requirements.txt file._
 
 
 ---
